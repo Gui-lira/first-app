@@ -1,1 +1,1 @@
-web: gunicorn first-app.wsgi
+web: gunicorn firstOne.wsgi
